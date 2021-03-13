@@ -1,0 +1,10 @@
+  .DE-content {
+    font-size: calc(15px + 1vmin);
+    color: rgb(0, 0, 0);
+    background-color:  rgb(223, 155, 155);
+    align-items: center; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 60vh;
+  }
